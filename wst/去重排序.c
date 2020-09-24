@@ -6,7 +6,6 @@ int main()
     {
         if(N==0)
         break;
-        b[100]=0;
         c=0;
         for(i1=0;i1<N;i1++)
         scanf("%d",&a[i1]);
